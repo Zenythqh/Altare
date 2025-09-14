@@ -1,0 +1,14 @@
+{
+  "name": "altareauthlog",
+  "version": "1.0.0",
+  "main": "altare.js",
+  "scripts": {
+    "start": "node altare.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.1",
+    "axios-cookiejar-support": "^6.0.4",
+    "tough-cookie": "^5.1.2",
+    "ws": "^8.18.3"
+  }
+}
