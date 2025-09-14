@@ -7,7 +7,7 @@ const WebSocket = require("ws");
 const http = require("http");
 
 // ------------------ CONFIG ------------------
-const WEBHOOK_URL = process.env.WEBHOOK";
+const WEBHOOK_URL = process.env.WEBHOOK;
 const AUTH_URL = "https://console.altr.cc/auth/login";
 const WS_URL = "wss://console.altr.cc/ws";
 const COINS_URL = "https://console.altr.cc/api/coins";
